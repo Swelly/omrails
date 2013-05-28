@@ -3,4 +3,4 @@
 This is the sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Mattan Griggel](http://mattangriffel.com)
+by [Mattan Griffel](http://mattangriffel.com)
